@@ -1,0 +1,28 @@
+{
+  "name": "stream-pair",
+  "version": "1.0.0",
+  "description": "Create two coupled streams",
+  "main": "lib/stream-pair.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/stream-pair.git"
+  },
+  "keywords": [
+    "Stream",
+    "Socketpair",
+    "Pair",
+    "Coupled"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/stream-pair/issues"
+  },
+  "homepage": "https://github.com/indutny/stream-pair#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
