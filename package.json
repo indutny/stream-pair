@@ -24,5 +24,8 @@
   "homepage": "https://github.com/indutny/stream-pair#readme",
   "devDependencies": {
     "mocha": "^2.2.5"
+  },
+  "optionalDependencies": {
+    "readable-stream": "^2.0.1"
   }
 }
