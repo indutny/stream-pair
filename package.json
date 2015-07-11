@@ -1,6 +1,6 @@
 {
   "name": "stream-pair",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create two coupled streams",
   "main": "lib/stream-pair.js",
   "scripts": {
