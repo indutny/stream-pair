@@ -15,7 +15,7 @@ describe('StreamPair', function() {
 
     pair.other.on('end', done);
     pair.end(function() {
-      pair.other.read();
+      pair.other.resume();
     });
   });
 });
